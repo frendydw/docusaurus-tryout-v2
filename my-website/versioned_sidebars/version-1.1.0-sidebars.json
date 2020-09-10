@@ -1,0 +1,57 @@
+{
+  "version-1.1.0/someSidebar": [
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Microservice",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-1.1.0/microservices-introduction"
+        },
+        {
+          "type": "doc",
+          "id": "version-1.1.0/microservice-features"
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "API",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-1.1.0/api-introduction"
+        },
+        {
+          "type": "doc",
+          "id": "version-1.1.0/api-types"
+        },
+        {
+          "type": "doc",
+          "id": "version-1.1.0/api-rest"
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Database",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-1.1.0/database-introduction"
+        },
+        {
+          "type": "doc",
+          "id": "version-1.1.0/database-sql"
+        },
+        {
+          "type": "doc",
+          "id": "version-1.1.0/database-sql-list"
+        }
+      ]
+    }
+  ]
+}
