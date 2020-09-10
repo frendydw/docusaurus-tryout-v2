@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://frendydw.github.io',
   baseUrl: '/docusaurus-tryout-v2/',
   onBrokenLinks: 'throw',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo-magenta-2.png',
   organizationName: 'frendydw', // Usually your GitHub org/user name.
   projectName: 'docusaurus-tryout-v2', // Usually your repo name.
   themeConfig: {
@@ -14,10 +14,10 @@ module.exports = {
       searchParameters: {}, // Optional (if provided by Algolia)
     },
     navbar: {
-      title: 'Magenta',
+      title: '',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/magenta.jpg',
+        src: 'img/logo-magenta.png',
       },
       items: [
         {
