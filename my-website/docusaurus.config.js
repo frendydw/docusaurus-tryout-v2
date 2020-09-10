@@ -1,12 +1,12 @@
 module.exports = {
   title: 'Magenta',
   tagline: 'Learn About Microservices, API, and Database',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://frendydw.github.io',
+  baseUrl: '/docusaurus-tryout-v2/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'frendydw', // Usually your GitHub org/user name.
+  projectName: 'docusaurus-tryout-v2', // Usually your repo name.
   themeConfig: {
     algolia: {
       apiKey: 'YOUR_API_KEY',
@@ -27,6 +27,8 @@ module.exports = {
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'docs/1.1.0/microservices-introduction/', label: 'Oldest Version', position: 'left'},
+
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
